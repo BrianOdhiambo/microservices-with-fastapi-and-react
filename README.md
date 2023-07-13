@@ -1,1 +1,1 @@
-# Creating microservices with FastAPI and React stack.
+# Creating microservices with FastAPI, React and Redis stack.
